@@ -50,3 +50,12 @@ img{
     font-size: 7px;
     margin-top: 0;
 }
+
+/* primo testo */
+.primotesto{
+    font-size: 10px;
+}
+
+mark{
+    background-color: yellow;
+}
