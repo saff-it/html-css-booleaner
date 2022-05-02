@@ -22,6 +22,8 @@ header{
 }
 
 /* main  */
+
+/* titolo */
 h1{
     font-size: 30px;
     margin-bottom: 0;
@@ -37,4 +39,14 @@ h1{
 a{
     text-decoration: none;
     color:rgb(11, 176, 236)
+}
+
+/* immagini tim  */
+img{
+    width: 49%;
+}
+
+.textimg{
+    font-size: 7px;
+    margin-top: 0;
 }
