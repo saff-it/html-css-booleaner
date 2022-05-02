@@ -59,3 +59,22 @@ img{
 mark{
     background-color: yellow;
 }
+
+/* tabella */
+table{
+    font-size: 10px;
+    margin-top: 12px;
+    width: 100%;
+    text-align: left;
+}
+
+td{
+    width: 30%;
+}
+
+ /* ultimo testo e immagini */
+
+.lasttext{
+    font-size: 10px;
+
+}
