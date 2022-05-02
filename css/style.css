@@ -61,15 +61,35 @@ mark{
 }
 
 /* tabella */
-table{
-    font-size: 10px;
+.row.uno{
+    color: white;
     margin-top: 12px;
-    width: 100%;
     text-align: left;
+    background-color: rgb(38, 134, 212);
+
 }
 
-td{
-    width: 30%;
+.row.due{
+    background-color: rgb(53, 159, 194);
+    color: black;
+    height: 35px;
+    line-height: 50% 50%;
+
+}
+
+.colonna{
+    font-size: 14px;
+
+}
+
+.colonna.stretta{
+    width: 25%;
+    display: inline-block;
+}
+
+.colonna.larga{
+    width: 49%;
+    display: inline-block;
 }
 
  /* ultimo testo e immagini */
