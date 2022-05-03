@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .container{
@@ -16,8 +17,7 @@ body{
 
 header{
     background: url("../img/pattern.png") rgb(11, 176, 236);
-    background-size: contain;
-    width: 100%;
+    background-size: 30%;
     height: 40px;
 }
 
